@@ -1,0 +1,11 @@
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\bin\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.deps.json
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\bin\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.runtimeconfig.json
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\bin\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.runtimeconfig.dev.json
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\bin\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.dll
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\bin\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.pdb
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\obj\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.csprojAssemblyReference.cache
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\obj\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.csproj.CoreCompileInputs.cache
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\obj\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.AssemblyInfoInputs.cache
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\obj\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.AssemblyInfo.cs
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\obj\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.dll
+A:\C#\PRG2_20192_P1_3_17\PRG2_20192_P1_3_17\obj\Debug\netcoreapp2.1\PRG2_20192_P1_3_17.pdb
